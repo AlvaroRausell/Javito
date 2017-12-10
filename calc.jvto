@@ -1,0 +1,6 @@
+program:
+print Type a simple expression
+x is INPUT
+print x
+close
+loop program

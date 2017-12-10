@@ -1,0 +1,12 @@
+println What's your name?
+name is INPUT
+print Welcome
+println name
+load money y
+if y equals 0
+println How much money do you have?
+money is INPUT
+del money
+store money
+end
+load money money

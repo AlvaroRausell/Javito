@@ -1,0 +1,25 @@
+println What do you want to do?
+println a)Add money
+println b)Retrieve money
+println c)Check money
+println d)Quit
+choice is INPUT
+if choice equals a
+println How much do you want to add?
+add is INPUT
+money is money+add
+end
+if choice equals b
+println How much money do you want to take?
+take is INPUT
+money is money-take
+end
+if choice equals c
+println name
+println You have
+println money
+println dollars
+end
+if choice equals d
+quit
+end
