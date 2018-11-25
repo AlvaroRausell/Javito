@@ -6,13 +6,16 @@ This programming language is compiled at run-time using Java. Programs can be ra
 Basic sintax includes:
 
 __Print to console:__
+
 PRINT 2+2
 
 
 __Variable declaration:__
+
 Name_of_variable is value_to_assign (String or double)
 
 __Input:__
+
 VARIABLE is INPUT
 
 __Conditional statements:__
