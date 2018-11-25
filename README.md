@@ -2,19 +2,20 @@
 Programming language based on Java developed during HackKing's.
 
 This programming language is compiled at run-time using Java. Programs can be ran both in the form of a command promt or in saved in a file with format .jvto.
+
 Basic sintax includes:
 
-Print to console:
+__Print to console:__
 PRINT 2+2
 
 
-Variable declaration:
+__Variable declaration:__
 Name_of_variable is value_to_assign (String or double)
 
-Input:
+__Input:__
 VARIABLE is INPUT
 
-Conditional statements:
+__Conditional statements:__
 
 IF VARIABLE_1 less than/equals to/greater than VARIABLE_2:
 
@@ -23,9 +24,10 @@ IF VARIABLE_1 less than/equals to/greater than VARIABLE_2:
 END
 
 
-Methods:
+__Methods:__
 
 RANODM_NAME:
 
 //DO THIS
+
 CLOSE
